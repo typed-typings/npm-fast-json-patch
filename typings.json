@@ -1,0 +1,6 @@
+{
+  "name": "packagename",
+  "version": "",
+  "homepage": "https://github.com/types/npm-packagename",
+  "main": "index.d.ts"
+}

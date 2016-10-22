@@ -1,14 +1,14 @@
 {
-  "name": "@types/packagename",
+  "name": "@types/fast-json-patch",
   "version": "1.0.0",
-  "description": "Typings for packagename",
+  "description": "Typings for fast-json-patch",
   "scripts": {
     "build": "typings bundle -o test/bundle.d.ts",
     "test": "tsc -p test",
     "lint": "tslint -c tslint.json index.d.ts"
   },
-  "author": "Felix Becker <felix.b@outlook.com>",
-  "license": "ISC",
+  "author": "Philipp Petzold <ppetzold89@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "tslint": "^3.13.0",
     "typescript": "^1.8.10",

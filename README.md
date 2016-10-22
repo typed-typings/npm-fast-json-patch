@@ -1,11 +1,11 @@
-# Typed packagename
-[![Build Status](https://travis-ci.org/types/npm-packagename.svg?branch=master)](https://travis-ci.org/types/npm-packagename)
+# Typed fast-json-patch
+[![Build Status](https://travis-ci.org/types/npm-fast-json-patch.svg?branch=master)](https://travis-ci.org/types/npm-fast-json-patch)
 
-Typescript Typings for [packagename](https://www.npmjs.com/package/packagename).
+Typescript Typings for [fast-json-patch](https://www.npmjs.com/package/fast-json-patch).
 
 ## Installation
 ```sh
-typings install --save packagename
+typings install --save fast-json-patch
 ```
 
 ## Usage

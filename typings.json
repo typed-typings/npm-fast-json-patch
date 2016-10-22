@@ -1,6 +1,6 @@
 {
-  "name": "packagename",
+  "name": "fast-json-patch",
   "version": "",
-  "homepage": "https://github.com/types/npm-packagename",
+  "homepage": "https://github.com/types/npm-fast-json-patch",
   "main": "index.d.ts"
 }

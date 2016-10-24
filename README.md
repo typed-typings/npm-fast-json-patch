@@ -11,7 +11,22 @@ typings install --save fast-json-patch
 ## Usage
 
 ```ts
+import { apply } from 'fast-json-patch';
 
+const obj = {
+    foo: 1,
+    baz: [{
+        qux: 'hello'
+    }]
+};
+
+const results = apply(obj, [{
+    op: 'add',
+    path: '/baz/0/foo',
+    value: 'world'
+}]);
+
+console.log(results);
 ```
 
 [More examples](./test)
@@ -19,7 +34,3 @@ typings install --save fast-json-patch
 
 ## Contributing
 You can run them the tests with `npm run build` and `npm run test`.
-
---------------------------------
-
-_Based on typings by [](https://github.com/)_

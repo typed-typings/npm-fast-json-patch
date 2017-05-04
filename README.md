@@ -1,4 +1,6 @@
 # Typed fast-json-patch
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-fast-json-patch.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/types/npm-fast-json-patch.svg?branch=master)](https://travis-ci.org/types/npm-fast-json-patch)
 
 Typescript Typings for [fast-json-patch](https://www.npmjs.com/package/fast-json-patch).
